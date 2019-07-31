@@ -192,7 +192,7 @@ var __vue_staticRenderFns__ = [];
   /* style */
   const __vue_inject_styles__ = function (inject) {
     if (!inject) return
-    inject("data-v-72ad830f_0", { source: ".nice-handsome-button{display:inline-block;outline:0;border:1px solid rgba(0,0,0,.1);color:#fff;font-weight:500;font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif;user-select:none;cursor:pointer}.nice-handsome-button--blue{background-color:#0194ef}.nice-handsome-button--green{background-color:#1bb934}.nice-handsome-button--red{background-color:#e1112c}.nice-handsome-button--small{padding:8px 10px;border-radius:4px;font-size:12px;line-height:12px}.nice-handsome-button--default{padding:12px 14px;border-radius:6px;font-size:14px;line-height:16px}.nice-handsome-button--large{padding:16px 18px;border-radius:8px;font-size:16px;line-height:20px}.nice-handsome-button--rounded{border-radius:60px}", map: undefined, media: undefined });
+    inject("data-v-a49c9cf6_0", { source: ".nice-handsome-button{display:inline-block;outline:0;border:1px solid rgba(0,0,0,.1);color:#fff;font-weight:500;font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif;user-select:none;cursor:pointer}.nice-handsome-button--blue{background-color:#0194ef}.nice-handsome-button--green{background-color:#1bb934}.nice-handsome-button--red{background-color:#e1112c}.nice-handsome-button--small{padding:8px 10px;border-radius:4px;font-size:12px;line-height:12px}.nice-handsome-button--default{padding:12px 14px;border-radius:6px;font-size:14px;line-height:16px}.nice-handsome-button--large{padding:16px 18px;border-radius:8px;font-size:16px;line-height:20px}.nice-handsome-button--rounded{border-radius:60px}", map: undefined, media: undefined });
 
   };
   /* scoped */
